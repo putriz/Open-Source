@@ -13,3 +13,6 @@ Many people can contribute to fixing errors easily rather than just one of two p
 ![firsttwodiffs](https://cloud.githubusercontent.com/assets/16448052/13184899/7ee98902-d70c-11e5-8d3a-79c28ee153a9.JPG)
 ![lastdiff](https://cloud.githubusercontent.com/assets/16448052/13184911/8fd3bae4-d70c-11e5-9556-e96a83a14c83.JPG)
 
+![it seems they implemented the changes lol](https://cloud.githubusercontent.com/assets/16448052/13344706/78398a66-dc26-11e5-96b1-de86af810de6.png)
+
+
