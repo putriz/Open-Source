@@ -21,8 +21,14 @@
 
 ###Step 4
 
+#####TutorialConfig.h.in:
+![screenshot from 2016-03-01 01 43 59](https://cloud.githubusercontent.com/assets/16448052/13509915/0272e2fe-e186-11e5-8d24-48d360244482.png)
+
 #####mysqrt.cxx:
 ![screenshot from 2016-03-03 20 43 57](https://cloud.githubusercontent.com/assets/16448052/13509476/916daa82-e183-11e5-9a4e-e1fd0d954aa6.png)
+
+#####Running:
+![screenshot from 2016-03-01 02 49 22](https://cloud.githubusercontent.com/assets/16448052/13509982/5c089660-e186-11e5-96c8-71baaf942c58.png)
 
 ###Step 5
 
