@@ -15,8 +15,8 @@ community to critically review the development process because they only release
 but not the standards-track.
 
 ####5. Why a license is chosen (Linux)
-Linux uses the GPL v2 license because the GPL requires that anyone who distributes software based on source code under this license, must make the originating source code (and any modifications) available to the recipient under the same terms. Linux did not choose v3
-because it would be impractical to obtain permission from all the copyright holders.
+Because Linux uses the GPL License, it allows the community to keep improving it until it becomes a success. Everyone who uses
+Linux source code must also be governed under the GPL and cannot hold ownership to it. The GPL also allows Linux to be freely distributed so widely across computers and programs. 
 
 ####6. Pick a license for a project.
 The project that we're picking a license for is our RCOS project SquareMeals. For this project, we're choosing the BSD License.
@@ -25,12 +25,14 @@ We chose this one because while it gives a lot of freedom for redistribution, it
 ####7. GPL, LGPL, Apache/BSD. Which one is better for a developer, a company, and the common good?
 
 For the common good, I think Apache/BSD is better because it doesn't have a lot of restrictions and gives
-freedom for a lot of people to contribute while still giving credit to the original maker of the program.
+freedom for a lot of people to do what they want while still giving credit to the original maker of the program.
 
-For a developer, I think LGPL is good because it is not as restrictive as the GPL which can give more freedom to 
-a developer who's still creating things. 
+For a developer, I think LGPL is good because it can allow other applications that don't have to be licensed
+under GPL to use the program by the developer without much restriction.
 
-For a company, I think GPL is better.
+For a company, I think GPL is better because it restritcs others who want to use
+or modify the code to also have it licensed under GPL. But other people can still contribute to it to make it better
+and they cannot hold ownership to it.
 
 ####9. Choose 5 projects from Observatory. 
 
@@ -43,6 +45,9 @@ https://github.com/bocaaust/CrowdCop      | Yes | Apache License Version 2.0, Ja
 https://github.com/Behemyth/LifeSim       | Yes | The MIT License (MIT) https://en.wikipedia.org/wiki/MIT_License
 
 ####10. Five sentences about choosing a project to work in this course and who will the users and the license that will be chosen.
+One example project would be an RPI grade calculator app. The users would be RPI students. The license that will be chosen is the
+MIT License. We choose the MIT License because there are a lot of grade calculators out there so people can take the code
+and do whatever they wish with it. The only thing unique about this app might be some features specifically for RPI.
 
 
 ![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png) This work is licensed under a http://creativecommons.org/licenses/by/4.0/ Creative Commons Attribution 4.0 International License.
