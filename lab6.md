@@ -59,9 +59,13 @@ Venue:
 #####3. Streaming Contributions Visualization
 
 CuBl: https://www.youtube.com/watch?v=IZEgFJfKuPE
+
 Fe-Cli: https://www.youtube.com/watch?v=D2HUIF-Ehms&feature=youtu.be
+
 Fundo: https://www.youtube.com/watch?v=1jhqha5UJBQ&feature=youtu.be
+
 Ringtone-Randomizer: https://www.youtube.com/watch?v=vNk2pYIXBzw&feature=youtu.be
+
 Venue: https://www.youtube.com/watch?v=YQuVC4O2qyE&feature=youtu.be
 
 ###Part 2
