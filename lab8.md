@@ -11,3 +11,6 @@
 
 ![screenshot 77](https://cloud.githubusercontent.com/assets/16448052/14512095/1a19779e-01aa-11e6-868a-a5b96a7d4488.png)
 
+###Project:
+This week I examined the source code of the website and figured out what I wanted to do for a feature. I would like to add a feature that allows the user to change the background color, because some people work better with certain colors based on the type of work and their moods.
+
