@@ -5,8 +5,6 @@
 
 ![screenshot 70](https://cloud.githubusercontent.com/assets/16448052/14512192/dcf74b56-01aa-11e6-8d24-3dbf6fa6e23c.png)
 
-![screenshot 69](https://cloud.githubusercontent.com/assets/16448052/14512195/e0447180-01aa-11e6-8378-66efc1c7aee5.png)
-
 ![screenshot 68](https://cloud.githubusercontent.com/assets/16448052/14512196/e4df417a-01aa-11e6-8fea-f609177713d8.png)
 
 ###Plots:
